@@ -1,0 +1,5 @@
+numbers= (47, 83, 12, 59, 31,74, 5, 96, 28, 67,12, 88, 41, 62, 15,99, 22, 55, 12, 70)
+length= len(numbers)
+print("Length of numbers= ", length)
+count_12= numbers.count(12)
+print("No of times 12 present= ", count_12)
